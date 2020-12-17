@@ -43,19 +43,19 @@ Feel free to try and use the latest version of Python (3.9). At the time of writ
 
 ## Demo/Steps
 - Step 1, Starting image
- ![](demo_images/1_starting_image.PNG)
+- ![](demo_images/1_starting_image.PNG)
 - Step 2, Gaussian blur the image
- ![](demo_images/2_gaussian_image.PNG)
+- ![](demo_images/2_gaussian_image.PNG)
 - Step 3, Grayscale the blurred image
- ![](demo_images/3_grayscale_image.PNG)
+- ![](demo_images/3_grayscale_image.PNG)
 - Step 4, Detect the plate using contour extraction
- ![](demo_images/4_plate_detected.PNG)
+- ![](demo_images/4_plate_detected.PNG)
 - Step 5, Crop the image of the plate and resize it, we can discard the rest of the image as we are just concerned with the plate
- ![](demo_images/5_plate_cropped.PNG)
+- ![](demo_images/5_plate_cropped.PNG)
 - Step 6, Grayscale the image of the plate
- ![](demo_images/6_plate_grayscale.PNG)
+- ![](demo_images/6_plate_grayscale.PNG)
 - Step 7, Gaussian blur the plate
- ![](demo_images/7_plate_gaussian.PNG)
+- ![](demo_images/7_plate_gaussian.PNG)
 - Step 8, Read the license plate and output the text
- ![](demo_images/8_text.PNG)
+- ![](demo_images/8_text.PNG)
 
