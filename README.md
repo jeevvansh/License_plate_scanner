@@ -42,5 +42,5 @@ Feel free to try and use the latest version of Python (3.9). At the time of writ
 - Follow the instructions on the screen
 
 ## Demo/Steps
-![](License_plate_scanner/1_starting_image.PNG)
+![](demo_images/1_starting_image.PNG)
 
