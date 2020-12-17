@@ -42,5 +42,7 @@ Feel free to try and use the latest version of Python (3.9). At the time of writ
 - Follow the instructions on the screen
 
 ## Demo/Steps
-![](demo_images/1_starting_image.PNG)
+- Step 1, Starting image
+- ![](demo_images/1_starting_image.PNG)
+- Step 2, 
 
