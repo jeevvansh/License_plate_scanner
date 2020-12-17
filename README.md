@@ -41,3 +41,6 @@ Feel free to try and use the latest version of Python (3.9). At the time of writ
 - Type `py main.py`
 - Follow the instructions on the screen
 
+## Demo/Steps
+-![](License_plate_scanner/demo_images/1_starting_image.PNG)
+
